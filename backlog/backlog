@@ -1,0 +1,22 @@
+1. Levantamento de Requisitos:
+   - Identificar stakeholders e suas necessidades.
+   - Estruturar equipe e definir papéis.
+   - Realizar pesquisas de mercado.
+
+2. Controle de Estoque de Produtos:
+ - Desenvolvimento do sistema de entrada e saída de produtos.
+ - Desenvolvimento do sistema de controle de estoque (Inserir, Editar, Cadastrar, Verificar)
+ - Iniciar o desenvolvimento do software.
+
+3. Controle de Fornecedores:
+ - Desenvolvimento de um sistema para cadastro e gerenciamento de fornecedores.
+
+4. Interface de Média Fidelidade:
+   - Criar esboços iniciais de telas com base nos requisitos levantados.
+   - Refinar os esboços em uma versão de média fidelidade, incluindo cores, tipografia e layout.
+   - Validar a interface com usuários através de testes de usabilidade para identificar possíveis melhorias antes da implementação final.
+
+5. Testes e Validação do Sistema:
+ - Realizar testes de usabilidade e funcionalidade em todas as etapas do desenvolvimento do sistema.
+
+ - Aplicar melhorias sugeridas.

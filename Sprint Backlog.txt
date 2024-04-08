@@ -4,9 +4,6 @@ Sprint 1:
    - Identificar stakeholders e suas necessidades.
    - Estruturar equipe e definir papéis.
 
-2. Interface de Média Fidelidade:
-   - Criar esboços iniciais de telas com base nos requisitos levantados.
-
 Sprint 2:
 
 1. Levantamento de Requisitos:

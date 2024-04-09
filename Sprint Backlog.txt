@@ -9,32 +9,29 @@ Sprint 2:
 1. Levantamento de Requisitos:
    - Realizar pesquisas de mercado.
 
-2. Interface de Média Fidelidade:
-   - Refinar os esboços em uma versão de média fidelidade, incluindo cores, tipografia e layout.
-
-
 Sprint 3:
 
-1. Validar Interface de Média Fidelidade:
-   - Validar a interface com usuários através de testes de usabilidade para identificar possíveis melhorias antes da implementação final.
+1. Planejamento do diagrama de caso de uso para RH
+   - Organizar o GitHub.
+   - Criar a divisão do diagrama para exibir os casos de uso dos atores.
 
 Sprint 4:
 
-1. Controle de Fornecedores:
-   - Desenvolvimento de um sistema para cadastro e gerenciamento de fornecedores.
+1. Construção do diagrama de caso de uso para Funcionários
+   - Criar a divisão do diagrama para exibir os casos de uso dos atores.
 
 Sprint 5:
 
-1. Controle de Estoque de Produtos:
-   - Desenvolvimento do sistema de entrada e saída de produtos.
+1. Construção do diagrama de caso de uso para controle de Fornecedores
+   - Criar a divisão do diagrama para exibir os casos de uso dos atores.
 
 Sprint 6:
 
-1. Controle de Estoque de Produtos:
-   - Desenvolvimento do sistema de controle de estoque (Inserir, Editar, Cadastrar, Verificar).
+1. Construção do Modelo Conceitual de Negócio (MCU)
+   - Conceitos e relações-chave dentro do domínio de negócios.
 
 Sprint 7:
 
-1. Testes e Validação do Sistema:
-   - Realizar testes de usabilidade e funcionalidade em todas as etapas do desenvolvimento do sistema.
-   - Aplicar melhorias sugeridas.
+1. Documentação do Modelo Conceitual de Negócio (MCU)
+   - Consolidar as informações sobre os conceitos de negócios identificados durante o processo de modelagem.
+   - Documentar o MCU de forma clara e concisa, descrevendo os principais conceitos e relacionamentos do domínio de negócios.

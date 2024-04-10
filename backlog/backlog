@@ -1,22 +1,22 @@
-1. Levantamento de Requisitos:
-   - Identificar stakeholders e suas necessidades.
-   - Estruturar equipe e definir papéis.
-   - Realizar pesquisas de mercado.
+Levantamento de Requisitos:
+   Identificar stakeholders e suas necessidades.
+   Realizar pesquisas de mercado.
 
-2. Controle de Estoque de Produtos:
- - Desenvolvimento do sistema de entrada e saída de produtos.
- - Desenvolvimento do sistema de controle de estoque (Inserir, Editar, Cadastrar, Verificar)
- - Iniciar o desenvolvimento do software.
+Planejamento do Diagrama de Caso de Uso:
 
-3. Controle de Fornecedores:
- - Desenvolvimento de um sistema para cadastro e gerenciamento de fornecedores.
+   Estruturar equipe e definir papéis.
+   Organizar o GitHub.
+   Criar a divisão do diagrama para exibir os casos de uso dos atores.
 
-4. Interface de Média Fidelidade:
-   - Criar esboços iniciais de telas com base nos requisitos levantados.
-   - Refinar os esboços em uma versão de média fidelidade, incluindo cores, tipografia e layout.
-   - Validar a interface com usuários através de testes de usabilidade para identificar possíveis melhorias antes da implementação final.
+Construção dos Diagramas de Caso de Uso:
 
-5. Testes e Validação do Sistema:
- - Realizar testes de usabilidade e funcionalidade em todas as etapas do desenvolvimento do sistema.
+   Construir o diagrama de caso de uso para RH.
+   Construir o diagrama de caso de uso para Funcionários.
+   Construir o diagrama de caso de uso para controle de Fornecedores.
 
- - Aplicar melhorias sugeridas.
+Modelo Conceitual de Negócio (MCU):
+
+   Construção do Modelo Conceitual de Negócio (MCU).
+   Documentação do Modelo Conceitual de Negócio (MCU):
+   Consolidar as informações sobre os conceitos de negócios identificados durante o processo de modelagem.
+   Documentar o MCU de forma clara e concisa, descrevendo os principais conceitos e relacionamentos do domínio de negócios.

@@ -18,6 +18,7 @@ Acompanhe nossas [sprints](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/
 ## Colaboradores
 
 - [Eduardo Bueno](https://github.com/2dbueno)
+- [Letícia Nunes](https://github.com/LeNunes123)
 - [Guilherme Nunes](https://github.com/Guilherme1315)
 - [Breno Bueno](https://github.com/bbuenoo)
 - [Livia Vilhena](https://github.com/vilhenalivia)

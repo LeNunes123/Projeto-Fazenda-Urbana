@@ -16,21 +16,28 @@ Sprint 3:
    - Criar a divisão do diagrama para exibir os casos de uso dos atores.
 
 Sprint 4:
+Data de entrega: 16/04/2024
 
 1. Construção do diagrama de caso de uso para Funcionários
-   - Criar a divisão do diagrama para exibir os casos de uso dos atores.
+   - Criar a divisão do diagrama para exibir os casos de uso dos atores (cadastrar, editar e excluir fornecedores;
+   cadastrar, editar e excluir colaboradores;
+   monitorar plantação: data de plantio e data de coleta e quantidade do produto).
+   - Criar protótipo de interface do projeto.
 
 Sprint 5:
+Data de entrega: 22/04/2024
 
 1. Construção do diagrama de caso de uso para controle de Fornecedores
    - Criar a divisão do diagrama para exibir os casos de uso dos atores.
 
 Sprint 6:
+Data de entrega: 29/04/2024
 
 1. Construção do Modelo Conceitual de Negócio (MCU)
    - Conceitos e relações-chave dentro do domínio de negócios.
 
 Sprint 7:
+Data de entrega: 06/05/2024
 
 1. Documentação do Modelo Conceitual de Negócio (MCU)
    - Consolidar as informações sobre os conceitos de negócios identificados durante o processo de modelagem.

@@ -47,8 +47,11 @@ Data de entrega: 29/04/2024
 Responsável: Eduardo Bueno
 Status: Pendente
 
-1. Construção do Modelo Conceitual de Negócio (MCU)
-   - Conceitos e relações-chave dentro do domínio de negócios.
+1. Modelagem de Dados - Normalização 
+- 1FN, 2FN, 3FN, 4FN, 5FN.
+- Elaborar o Diagrama ER do banco de dados
+- Construção da interface da Produção.
+- Descrever os requisitos dos usuários e os requisitos do sistema (Funcionais e não funcionais)
 
 Sprint 7:
 Data de entrega: 06/05/2024

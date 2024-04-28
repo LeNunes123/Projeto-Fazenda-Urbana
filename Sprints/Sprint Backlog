@@ -46,10 +46,11 @@ Sprint 6:
 Data de entrega: 29/04/2024
 Responsável: Eduardo Bueno
 Status: Pendente
+Tempo de conclusão: 300 minutos.
 
 1. Modelagem de Dados - Normalização 
-- 1FN, 2FN, 3FN, 4FN, 5FN.
-- Elaborar o Diagrama ER do banco de dados
+- 1FN, 2FN, 3FN.
+- Elaborar o Diagrama DER do banco de dados
 - Construção da interface da Produção.
 - Descrever os requisitos dos usuários e os requisitos do sistema (Funcionais e não funcionais)
 
@@ -57,6 +58,7 @@ Sprint 7:
 Data de entrega: 06/05/2024
 Responsável: Breno Bueno
 Status: Pendente
+Tempo de conclusão: 480 minutos
 
 1. Documentação do Modelo Conceitual de Negócio (MCU)
    - Consolidar as informações sobre os conceitos de negócios identificados durante o processo de modelagem.

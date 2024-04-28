@@ -1,1 +1,24 @@
+Requisitos dos Usuários 
+Produtores/Trabalhadores da Fazenda
+	• Registrar atividades diárias, como plantio, irrigação, fertilização e colheita.
+	• Acessar informações sobre o estado das plantas, incluindo saúde, crescimento e necessidades específicas.
+	• Visuaizar notificações sobre condições climáticas adversas.
+	• Visualizar relatórios e análises sobre o desempenho da fazenda, incluindo produtividade e eficiência.
 
+Gestores/Administradores:
+	• Monitorar o progresso das atividades agrícolas.
+	• Acessar dados históricos para análise e tomada de decisões.
+	• Acompanhar o desempenho em relação a metas.
+
+
+Requisitos do Sistema:
+Funcionais:
+	• Registro de Atividades: O sistema deve permitir o registro e o acompanhamento das atividades, incluindo plantio, irrigação, fertilização e colheita.
+	• Monitoramento de Plantas: Deve ser possível monitorar o estado das plantas, incluindo saúde, crescimento e necessidades específicas de cada cultura.
+	• Relatórios e Análises: Deve fornecer relatórios e análises sobre o desempenho da fazenda, incluindo produtividade e eficiência.
+
+Não Funcionais:
+	• Desempenho: O sistema deve ser responsivo e capaz de lidar com grandes volumes de dados sem degradação do desempenho.
+	• Segurança: Deve garantir a segurança dos dados dos usuários e a integridade das informações da fazenda.
+	• Usabilidade: Deve ser intuitivo e fácil de usar, com uma interface amigável para usuários de diferentes níveis de habilidade.
+	• Disponibilidade: Deve estar disponível 24/7 para garantir que os usuários possam acessá-lo sempre que necessário.

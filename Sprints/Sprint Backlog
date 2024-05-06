@@ -59,7 +59,7 @@ Responsável: Breno Bueno
 Status: Pendente
 Tempo de conclusão: 480 minutos
 
-1. Documentação do Modelo Conceitual de Negócio (MCU)
-   - Consolidar as informações sobre os conceitos de negócios identificados durante o processo de modelagem.
-   - Construção da interface da Produção.
-   - Documentar o MCU de forma clara e concisa, descrevendo os principais conceitos e relacionamentos do domínio de negócios.
+1. Construção do MER, DER e burndown
+   - Construção do Modelo Entidade Relacionamento.
+   - Construção do Diagrama Entidade Relacionamento.
+   - Construção do burndown

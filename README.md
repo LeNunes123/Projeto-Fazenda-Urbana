@@ -17,7 +17,7 @@ Acompanhe nossas [sprints](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/
 
 ## Acesso Rápido 
 - [Backlog](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/blob/main/backlog/backlog)
-- [Sprint Backlog](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/blob/main/Sprints/Sprint%20Backlog)
+- [Sprint Backlog](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/blob/main/Sprints/Sprint%20Backlog.png)
 - [Burndown](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/blob/main/Sprints/Burndown.png)
 - [Daily](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/tree/main/Daily)
 - [Restrospectiva](https://github.com/LeNunes123/Projeto-Fazenda-Urbana/tree/main/Retrospectiva)
